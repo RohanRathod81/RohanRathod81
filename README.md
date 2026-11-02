@@ -22,7 +22,7 @@ I work with customer, campaign and credit data in **FinTech**, turning it into i
 
 ## 🛠️ Tech stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,jupyter,vscode" alt="Tools"><br>
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode" alt="Tools"><br>
   <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white">
